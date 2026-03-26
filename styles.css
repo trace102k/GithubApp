@@ -27,7 +27,7 @@ h1 {
 
 .search-form {
   display: flex;
-  gap: 11px;
+  gap: 10px;
 }
 
 .search-input {
